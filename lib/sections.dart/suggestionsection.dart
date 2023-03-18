@@ -12,7 +12,7 @@ class suggestionsection extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 440,
+      height: 450,
       child: Column(
         children: [
           ListTile(
